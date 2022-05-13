@@ -1,0 +1,26 @@
+{
+  "name": "mindx-web58-nhomavenger-node-b2",
+  "version": "1.0.0",
+  "description": "đây là đài tiếng nói việt nam. chúng tôi đang học buổi đầu tiên về express.js",
+  "main": "app_thanhhh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conneso/mindx-web58-nhomAvenger-node-b2.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "thanhhh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conneso/mindx-web58-nhomAvenger-node-b2/issues"
+  },
+  "homepage": "https://github.com/conneso/mindx-web58-nhomAvenger-node-b2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
